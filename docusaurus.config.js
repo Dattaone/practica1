@@ -62,8 +62,9 @@ const config = {
       navbar: {
         title: '',
         logo: {
-          alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          alt: 'Nuevo Icono de Chat Buho',
+          src: 'img/buho.png'
+          /* src: 'https://buho.la/images/chat/chat-buho.svg', */
         },
         items: [
           // {
